@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- using the "Light Blue" Material Palette -->
+    <color name="primary_bgr">#03A9F4</color>
+    <color name="primary_text_color">#FFFFFFFF</color> <!--100%-->
+    <color name="primary_sub_text_color">#80FFFFFF</color> <!--50%-->
+    <color name="ambient_text_color">#66FFFFFF</color> <!--40%-->
+    <color name="ambient_sub_text_color">#40FFFFFF</color> <!--25%-->
+    <color name="ambient_bgr_color">#F2000000</color> <!--95%-->
+</resources>
